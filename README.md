@@ -13,10 +13,10 @@ Control system (C++/Arduino)
    - AutomatiskLyskontrol.cpp
    - main.cpp
 
-So in short: I was responsible for the UART communication between the systems, saving user settings in Arduino's non-volatile memory and the control class for the automatic control of the light source based on the user-set preferences 'systemindstillinger'.
-   
 Files not listed above were written by teammates as part of the shared codebase.
 
+So in short: I was responsible for the UART communication between the systems, saving user settings in Arduino's non-volatile memory and the control class for the automatic control of the light source based on the user-set preferences 'systemindstillinger'.
+   
 
 **Styresystem (control system)**
 Runs on an Arduino Mega2560.
@@ -35,3 +35,8 @@ Run: Click the Reset button on the shield.
 **GUI**
 Runs on Windows.
 Language: Python
+
+
+**Pictures**
+<img width="1132" height="452" alt="Styresystem_and_full_system" src="https://github.com/user-attachments/assets/b1f9c27e-da7a-4067-a92d-da1a078c767b" />
+<img width="1067" height="397" alt="Adjusting_brightness_or_timeout" src="https://github.com/user-attachments/assets/ef4027f3-7412-43e4-b53b-33eb1645e469" />
