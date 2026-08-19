@@ -43,4 +43,11 @@ Language: Python
 
 https://github.com/user-attachments/assets/037e4c86-545c-42f0-b056-16fedefa4386
 
+**Diagrams**
+
+System sequence diagram - settings configuration:
+<img width="3156" height="5204" alt="ssd_uc1_Settings_configuration" src="https://github.com/user-attachments/assets/d80b5929-a1ab-43b3-9948-6905a70e17a1" />
+
+Sequence diagram from Styresystem's point of view - automatic light control:
+<img width="4340" height="5408" alt="sd_Light_auto-control" src="https://github.com/user-attachments/assets/f6729672-05d6-4749-9fd1-f6ca857d8ca2" />
 
