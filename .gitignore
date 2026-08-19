@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# C++/Arduino build artifacts
+*.d
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.ilk
+*.pdb
+*.so
+*.dylib
+*.dll
+*.mod
+*.smod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.dwo
+
+# Microchip Studio / Atmel Studio
+.vs/
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.lss
+*.eep
+*.srec
