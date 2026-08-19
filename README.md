@@ -4,16 +4,16 @@ Two-part embedded system that auto-controls a light based on motion/light sensor
 This was a group project in 2nd semester. My primary contributions:
 
 GUI (Python/Windows PC)
-   - styresystemKommunikation.py
+   - styresystemKommunikation.py (design and implementation)
 
 Control system (C++/Arduino)
-   - GUIkommunikation.cpp
-   - SystemindstillingKontrol.cpp
-   - Systemindstillinger.cpp
-   - AutomatiskLyskontrol.cpp
-   - main.cpp
+   - GUIkommunikation.cpp (design and implementation)
+   - SystemindstillingKontrol.cpp (design and implementation)
+   - Systemindstillinger.cpp (design and implementation)
+   - AutomatiskLyskontrol.cpp (debugging)
+   - main.cpp (debugging)
 
-Files not listed above were written by teammates as part of the shared codebase.
+Files not listed above were developed by teammates as part of the shared codebase.
 
 So in short: I was responsible for the UART communication between the systems, saving user settings in Arduino's non-volatile memory and the control class for the automatic control of the light source based on the user-set preferences 'systemindstillinger'.
    
