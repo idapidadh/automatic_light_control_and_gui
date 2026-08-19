@@ -37,6 +37,10 @@ Runs on Windows.
 Language: Python
 
 
-**Pictures**
+**Pictures/video**
 <img width="1132" height="452" alt="Styresystem_and_full_system" src="https://github.com/user-attachments/assets/b1f9c27e-da7a-4067-a92d-da1a078c767b" />
 <img width="1067" height="397" alt="Adjusting_brightness_or_timeout" src="https://github.com/user-attachments/assets/ef4027f3-7412-43e4-b53b-33eb1645e469" />
+
+https://github.com/user-attachments/assets/037e4c86-545c-42f0-b056-16fedefa4386
+
+
